@@ -1,6 +1,6 @@
 #SIMULADOR CAJAS CSGO® (Derechos reservados por Valve Corp.)
 #v1.3
-#Hecho por: Miguel Prieto Hernández
+#Hecho por: Paxtax
 #Inicio Codigo
 $archivreport7 = "temp123456789.txt"
 $path = pwd
@@ -25,7 +25,7 @@ Remove-Item progress3.txt -ErrorAction SilentlyContinue
 Remove-Item progress4.txt -ErrorAction SilentlyContinue
 Write-Host "SIMULADOR CAJAS CSGO® (Derechos reservados por Valve Corp.)"
 Write-Host "v1.3"
-Write-Host "Hecho por: Miguel Prieto Hernández"
+Write-Host "Hecho por: Paxtax"
 Read-Host "Presione una tecla para continuar..."
 clear
 $inicioprog = Read-Host "Bienvenido, ¿Tienes un progreso del juego guardado(1), o, quieres crear uno desde 0(2)?"
